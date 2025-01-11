@@ -1,0 +1,107 @@
+/* Open Sans */
+
+.fw-700{
+    font-weight: 700;
+}
+.fw-600{
+    font-weight: 600;
+}
+.fw-500{
+    font-weight: 400;
+}
+.fw-400{
+    font-weight: 400;
+}
+.fw-300{
+    font-weight: 300;
+}
+
+/* letter spacing */
+.ls-2{
+    letter-spacing: 2px;
+}
+
+
+/* font sizes */
+.fsize-8{
+    font-size: 8px;
+}
+.fsize-12{
+    font-size: 12px;
+}
+.fsize-14{
+    font-size: 14px;
+}
+.fsize-16{
+    font-size: 16px;
+}
+.fsize-22{
+    font-size: 22px;
+}
+.fsize-28{
+    font-size: 28px;
+}
+.fsize-32{
+    font-size: 32px;
+}
+.fsize-35{
+    font-size: 35px;
+}
+.fsize-48{
+    font-size: 48px;
+}
+.fsize-72{
+    font-size: 72px;
+}
+
+/* line height */
+.lheight-20{
+    line-height: 20px;
+}
+.lheight-26{
+    line-height: 26px;
+}
+.lheight-32{
+    line-height: 32px;
+}
+.lheight-34{
+    line-height: 34px;
+}
+.lheight-36{
+    line-height: 36px;
+}
+.lheight-60{
+    line-height: 60px;
+}
+.lheight-86{
+    line-height: 86px;
+}
+
+/* letter spacing */
+.lspacing-04{
+    letter-spacing: 0.4px;
+}
+.lspacing-1{
+    letter-spacing: 1px;
+}
+
+
+/* fonts colors */
+.fcolor-dark{
+    color: #333333;
+}
+.fcolor-muted{
+    color: #9fa3a7;
+}
+.fcolor-white{
+    color: #fff;
+}
+.fcolor-black{
+    color: #000;
+}
+.fcolor-blue{
+    color: #27b9c2;
+}
+.fcolor-yellow{
+    color: #ffc80a;
+}
